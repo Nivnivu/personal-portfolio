@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.41daae54.css",
+    "main.js": "/personal-portfolio/static/js/main.15b56125.js",
+    "static/media/coursera.JPG": "/personal-portfolio/static/media/coursera.23534e6cd650ed551c9c.JPG",
+    "static/media/movieland.JPG": "/personal-portfolio/static/media/movieland.4c55bbeb5005197abe1e.JPG",
+    "static/media/one-page-cart.JPG": "/personal-portfolio/static/media/one-page-cart.88b378a492ad055af235.JPG",
+    "static/media/htmlcssfreecodecamp.JPG": "/personal-portfolio/static/media/htmlcssfreecodecamp.417d4264778732b892e4.JPG",
+    "static/media/candy-crush.JPG": "/personal-portfolio/static/media/candy-crush.001297efabf55f922292.JPG",
+    "static/media/card-war.JPG": "/personal-portfolio/static/media/card-war.ca5041ffc60a5e545a09.JPG",
+    "static/media/mimo.JPG": "/personal-portfolio/static/media/mimo.5a743441184fb17644e5.JPG",
+    "static/media/logo.png": "/personal-portfolio/static/media/logo.ebe16883033ff9586e2b.png",
+    "static/media/smarthouse.JPG": "/personal-portfolio/static/media/smarthouse.37e4a698adf23ad15b37.JPG",
+    "static/media/nodejs.png": "/personal-portfolio/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/atom.png": "/personal-portfolio/static/media/atom.0d8c000270fb23f08869.png",
+    "static/media/mongo.png": "/personal-portfolio/static/media/mongo.eef3616f72834ba42eb3.png",
+    "static/media/git.png": "/personal-portfolio/static/media/git.f11021803f68852df283.png",
+    "static/media/sql.png": "/personal-portfolio/static/media/sql.48a66afef5900e8bc474.png",
+    "static/media/github.png": "/personal-portfolio/static/media/github.05f6c17b8cd04c28456f.png",
+    "static/media/linkedin.png": "/personal-portfolio/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "static/media/email.png": "/personal-portfolio/static/media/email.9d4fb065e6679439a9a3.png",
+    "static/media/css.png": "/personal-portfolio/static/media/css.7654ce00c5ac2e76e015.png",
+    "static/media/facebook.png": "/personal-portfolio/static/media/facebook.8d51a55626e9bf107f8f.png",
+    "static/media/html.png": "/personal-portfolio/static/media/html.31497a13d5b51cea9b7d.png",
+    "index.html": "/personal-portfolio/index.html",
+    "main.41daae54.css.map": "/personal-portfolio/static/css/main.41daae54.css.map",
+    "main.15b56125.js.map": "/personal-portfolio/static/js/main.15b56125.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41daae54.css",
+    "static/js/main.15b56125.js"
+  ]
+}
