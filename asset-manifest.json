@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.41daae54.css",
+    "main.css": "/personal-portfolio/static/css/main.b68d972d.css",
     "main.js": "/personal-portfolio/static/js/main.15b56125.js",
     "static/media/coursera.JPG": "/personal-portfolio/static/media/coursera.23534e6cd650ed551c9c.JPG",
     "static/media/movieland.JPG": "/personal-portfolio/static/media/movieland.4c55bbeb5005197abe1e.JPG",
@@ -23,11 +23,11 @@
     "static/media/facebook.png": "/personal-portfolio/static/media/facebook.8d51a55626e9bf107f8f.png",
     "static/media/html.png": "/personal-portfolio/static/media/html.31497a13d5b51cea9b7d.png",
     "index.html": "/personal-portfolio/index.html",
-    "main.41daae54.css.map": "/personal-portfolio/static/css/main.41daae54.css.map",
+    "main.b68d972d.css.map": "/personal-portfolio/static/css/main.b68d972d.css.map",
     "main.15b56125.js.map": "/personal-portfolio/static/js/main.15b56125.js.map"
   },
   "entrypoints": [
-    "static/css/main.41daae54.css",
+    "static/css/main.b68d972d.css",
     "static/js/main.15b56125.js"
   ]
 }
