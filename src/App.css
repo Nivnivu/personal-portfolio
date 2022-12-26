@@ -1,38 +1,258 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display&display=swap');
+
 .App {
+  /* text-align: center; */
+  font-family: 'Montserrat', sans-serif;
+ 
+}
+
+/* NAV STYLES  */
+a {
+  text-decoration: none;
+  color: #111111;
+}
+
+.flexHeader{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0 14% 2% 8%;
+
+}
+
+.child {
+  margin-left: auto;
+  font-size: 1.8rem;
+}
+.child a {
+  padding: 0 8% 0 0;
+}
+
+.child a:hover {
+  color: #999999;
+  font-size: 2rem;
+}
+
+.logo {
+  width: 40%;
+}
+
+/* Projects Styles */
+
+.headline {
+  margin-top: 4%;
+  margin-bottom: 0;
+  font-family: 'Playfair Display', serif;
+  font-size: 4rem;
+  margin-right: 68%;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.projectsContainer {
   display: flex;
-  flex-direction: column;
+  width: 80%;
+  margin: auto;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.projectItem {
+  width: 450px;
+  height: 100%;
+  border: 1px solid #333333;
+  margin-top: 1.5%;
+  border-radius: 30px;
+  color: #111111;
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+}
+.certItem {
+  width: 450px;
+  height: 100%;
+  border: 1px solid #333333;
+  margin-top: 1.5%;
+  border-radius: 0 0 30px 30px;
+  color: #111111;
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+}
+
+.projectImg {
+  width: 100%;
+  height: 80%;
+  border-radius: 30px 30px 0 0;
+}
+.certImg {
+  width: 100%;
+  height: 80%;
+}
+
+.projectItem:hover  {
+  background-color: #E2E2E2;
+}
+
+.hide {
+  display: none;
+}
+.show:hover + .hide {
+  display: block;
+
+}
+
+
+
+/* Footer */
+
+.personalImg {
+  width: 100px;
+  border-radius: 200px;
+}
+
+footer {
+  display: flex;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content:  space-evenly ;
+  gap: 2%;
+  border: 1px solid #111111;
+  width: 80%;
+  margin: 3% auto 1.5% auto;
+  padding: 8px;
+}
+.footerChild {
+  max-width: 600px;
+  
+}
+.footerIcon {
+  width: 30px;
+  padding: 0 0 0 5px;
+}
+.footerIcon:hover {
+  width: 33px;
 }
 
-.App-link {
-  color: #61dafb;
+
+/* About */
+
+.flexAbout {
+  display: flex;
+  gap: 5%;
+  border: 1px solid #111111;
+  width: 80%;
+  margin: 1.5% auto 1.5% auto;
+  padding: 8px;
+  flex-direction: column;
+  font-size: 1.5rem;
+
+}
+.flexAboutInfo {
+  padding-left: 23%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.aboutIcons {
+  width: 6%;
+  padding: 1%;
+  filter: invert(16%) sepia(0%) saturate(1%) hue-rotate(168deg) brightness(91%) contrast(85%);
+}
+
+.moveup {
+  margin-bottom: 0.6%;
+}
+.aboutPersonalmg {
+  width: 15%;
+  border-radius: 50%;
+}
+
+
+@media only screen and (max-width: 1400px) {
+
+  .child  {
+    font-size: 1rem;
   }
-  to {
-    transform: rotate(360deg);
+  .headline {
+    font-size: 2.2rem;
   }
+  .flexAboutInfo {
+    padding-left: 16%;
+    font-size: 1.2rem;
+  }
+  .footerChild {
+    max-width: 500px;
+  }
+  .footerIcon {
+    width: 25px;
+  }
+  .footerIcon:hover {
+    width: 27px;
+  }
+}
+
+
+@media only screen and (max-width: 1100px) {
+
+  .child  {
+    font-size: 1rem;
+  }
+  .headline {
+    font-size: 2.2rem;
+  }
+  .flexAboutInfo {
+    padding-left: 5%;
+    font-size: 1rem;
+  }
+  .footerIcon {
+    width: 22px;
+  }
+  .footerIcon:hover {
+    width: 23px;
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+
+  .child  {
+    font-size: 0.9rem;
+    
+  }
+  .headline {
+    font-size: 1.9rem;
+  }
+  .MuiSvgIcon-fontSizeLarge {
+    font-size: small;
+  }
+  .icon:hover {
+    font-size: 30px;
+    
+  }
+  .personalImg {
+    width: 70px;
+    border-radius: 200px;
+  }
+  .flexAboutInfo {
+    padding-left: 1%;
+  }
+  .footerChild {
+    max-width: 260px;
+  }
+  .footerIcon {
+    width: 18px;
+  }
+  .footerIcon:hover {
+    width: 19px;
+  }
+  .footerTxt {
+    font-size: 0.6rem;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+
+    .child  {
+      font-size: 0.6rem;
+      
+    }
+  
 }
