@@ -187,6 +187,7 @@ footer {
   .footerIcon:hover {
     width: 27px;
   }
+
 }
 
 
@@ -207,6 +208,15 @@ footer {
   }
   .footerIcon:hover {
     width: 23px;
+  }
+  .flexHeader {
+    flex-direction: column;
+    margin: auto;
+  }
+  .child {
+    margin: 2% 0 0 0;
+    padding: 0 5% 0 0;
+
   }
 }
 
