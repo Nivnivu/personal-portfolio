@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.dba1b0c7.css",
-    "main.js": "/personal-portfolio/static/js/main.d19ffda0.js",
+    "main.css": "/personal-portfolio/static/css/main.a1fd028f.css",
+    "main.js": "/personal-portfolio/static/js/main.3b5fd416.js",
     "static/media/udemy-full-stack.jpg": "/personal-portfolio/static/media/udemy-full-stack.514f4e290449a5519ca6.jpg",
     "static/media/coursera.JPG": "/personal-portfolio/static/media/coursera.23534e6cd650ed551c9c.JPG",
     "static/media/movieland.JPG": "/personal-portfolio/static/media/movieland.4c55bbeb5005197abe1e.JPG",
@@ -33,11 +33,11 @@
     "static/media/facebook.png": "/personal-portfolio/static/media/facebook.8d51a55626e9bf107f8f.png",
     "static/media/html.png": "/personal-portfolio/static/media/html.31497a13d5b51cea9b7d.png",
     "index.html": "/personal-portfolio/index.html",
-    "main.dba1b0c7.css.map": "/personal-portfolio/static/css/main.dba1b0c7.css.map",
-    "main.d19ffda0.js.map": "/personal-portfolio/static/js/main.d19ffda0.js.map"
+    "main.a1fd028f.css.map": "/personal-portfolio/static/css/main.a1fd028f.css.map",
+    "main.3b5fd416.js.map": "/personal-portfolio/static/js/main.3b5fd416.js.map"
   },
   "entrypoints": [
-    "static/css/main.dba1b0c7.css",
-    "static/js/main.d19ffda0.js"
+    "static/css/main.a1fd028f.css",
+    "static/js/main.3b5fd416.js"
   ]
 }
