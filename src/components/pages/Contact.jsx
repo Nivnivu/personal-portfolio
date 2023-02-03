@@ -18,7 +18,7 @@ function Contact() {
           <h4>Email: <img src={email} className='footerIcon' alt="Email Link" /></h4> 
           </a>
           <a href="https://www.facebook.com/niv.barsheshet/" target="_blank" rel="noreferrer">
-          <h4>Facebook: <img src={LinkedIn} className='footerIcon' alt="Linkedin Link" /></h4> 
+          <h4>Linkedin: <img src={LinkedIn} className='footerIcon' alt="Linkedin Link" /></h4> 
           </a>
 
         </p>

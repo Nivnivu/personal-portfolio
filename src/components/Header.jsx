@@ -10,7 +10,7 @@ function Header() {
         <Link to={'/'}><span className='navLink'>Projects</span></Link>
         <Link to={'/about'}><span className='navLink'>About</span></Link>
         <Link to={'/contact'}><span className='navLink'>Contact</span></Link>
-        <Link to={'certificets'}><span className='navLink'>Certificets</span></Link>
+        <Link to={'certificets'}><span className='navLink'>Certificates</span></Link>
     </nav>
     </header>
   )

@@ -2,11 +2,10 @@ import React from 'react'
 import gitIcon from '../photos/git.png'
 import facebook from '../photos/facebook.png'
 import linkdin from '../photos/linkedin.png'
-
+import personalImg from '../photos/myIMG.jpg'
 
 function Footer() {
 
-  const personalImg = 'https://scontent.fsdv1-2.fna.fbcdn.net/v/t31.18172-8/23826310_10215398393816799_5236957988117287752_o.jpg?_nc_cat=106&ccb=1-7&_nc_sid=174925&_nc_ohc=UpcnKb9JAO0AX_xjAyb&_nc_ht=scontent.fsdv1-2.fna&oh=00_AfAbt3uguKgbdNcxKKKieHEXHSvLdrpuahPYjtEmnQJWUg&oe=63D114AF'
 
   return (
     <footer>
