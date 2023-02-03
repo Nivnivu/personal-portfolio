@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.a1fd028f.css",
-    "main.js": "/personal-portfolio/static/js/main.3b5fd416.js",
+    "main.js": "/personal-portfolio/static/js/main.e8f8539d.js",
+    "static/media/myIMG.jpg": "/personal-portfolio/static/media/myIMG.3c3e370ac3cee6df369d.jpg",
     "static/media/udemy-full-stack.jpg": "/personal-portfolio/static/media/udemy-full-stack.514f4e290449a5519ca6.jpg",
     "static/media/coursera.JPG": "/personal-portfolio/static/media/coursera.23534e6cd650ed551c9c.JPG",
     "static/media/movieland.JPG": "/personal-portfolio/static/media/movieland.4c55bbeb5005197abe1e.JPG",
     "static/media/one-page-cart.JPG": "/personal-portfolio/static/media/one-page-cart.88b378a492ad055af235.JPG",
+    "static/media/cryptorsi.JPG": "/personal-portfolio/static/media/cryptorsi.294f0a0c33a033998d5a.JPG",
     "static/media/htmlcssfreecodecamp.JPG": "/personal-portfolio/static/media/htmlcssfreecodecamp.417d4264778732b892e4.JPG",
     "static/media/candy-crush.JPG": "/personal-portfolio/static/media/candy-crush.001297efabf55f922292.JPG",
     "static/media/campus-il-python.png": "/personal-portfolio/static/media/campus-il-python.3adaa1c8fdc3ee321c5a.png",
@@ -34,10 +36,10 @@
     "static/media/html.png": "/personal-portfolio/static/media/html.31497a13d5b51cea9b7d.png",
     "index.html": "/personal-portfolio/index.html",
     "main.a1fd028f.css.map": "/personal-portfolio/static/css/main.a1fd028f.css.map",
-    "main.3b5fd416.js.map": "/personal-portfolio/static/js/main.3b5fd416.js.map"
+    "main.e8f8539d.js.map": "/personal-portfolio/static/js/main.e8f8539d.js.map"
   },
   "entrypoints": [
     "static/css/main.a1fd028f.css",
-    "static/js/main.3b5fd416.js"
+    "static/js/main.e8f8539d.js"
   ]
 }
